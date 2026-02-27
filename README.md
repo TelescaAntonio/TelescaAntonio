@@ -46,7 +46,7 @@ I build systems that prove expensive infrastructure is not required for powerful
 
 ## Contact
 
-- Email: antoniotelesca503@gmail.com
+- Email: antonio.telesca@irst-institute.eu
 - GitHub: [@TelescaAntonio](https://github.com/TelescaAntonio)
 - Location: Italy
 
